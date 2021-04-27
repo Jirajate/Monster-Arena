@@ -1,0 +1,25 @@
+1,FantasyCardsPack_001,Corrupted Crap,3,2,2,Summon a copy of it.
+2,FantasyCardsPack_002,Tundra Beast,4,4,3,Randomly attack enemy when play this card.
+3,FantasyCardsPack_003,Red Parrot,1,1,2,
+4,FantasyCardsPack_004,Tiny Devourer,7,1,1,Destroy an enemy monster and gain attack and health of it.
+5,FantasyCardsPack_005,Red Fin Lizard,3,2,2,
+6,FantasyCardsPack_006,Skull Tribe,2,2,3,Randomly deal 1 damage to enemy monster
+7,FantasyCardsPack_007,Kangasaurus,3,3,5,Randomly attack something.
+8,FantasyCardsPack_008,Predator Of The Depth,8,5,5,Destroy an enemy monster and gain attack and health of it.
+9,FantasyCardsPack_009,Despaired Knight,1,3,3,Deal 1 damage to a monster if it not die this monster will be destroy.
+10,FantasyCardsPack_010,Forest Frog,3,1,1,Summon 2 copy of it.
+11,FantasyCardsPack_011,Goblin Miner,2,1,1,Add 1 coin to your hand. 
+12,FantasyCardsPack_012,Mountain Yak,9,10,10,Can attack enemy monsters this turn.
+13,FantasyCardsPack_013,Brainless Ghoul,3,1,1,Deal 1 damage to all monster when die.
+14,FantasyCardsPack_014,Halloween Spirit,6,6,6,Summon 6  pumpkins to your board.
+15,FantasyCardsPack_015,Angler Man,2,2,2,Restore 2 health.
+16,FantasyCardsPack_017,Baby Dragon,1,1,1,Draw a card.
+17,FantasyCardsPack_018,Armorturtle,5,4,8,
+18,FantasyCardsPack_019,Baal The Soulkeeper,10,0,0,+1 Attack and +1 health for each cards in graveyard.
+19,FantasyCardsPack_020,Merman,4,4,3,Can attack this turn.
+20,FantasyCardsPack_022,Tiny Skeleton,1,1,1,This monster can die twice.
+21,FantasyCardsPack_024,Scavenger,5,3,4,+1 attack when monster die.
+22,FantasyCardsPack_025,Cultist Mage,3,3,3,Deal 3 damage to monster.
+23,FantasyCardsPack_026,Baby Knight,1,3,3,
+24,FantasyCardsPack_027,Gargoyle,6,5,5,Restore 1 health when end turn.
+25,FantasyCardsPack_032,Grand Dwarf,7,4,5,only take 1 damage for each attack.
